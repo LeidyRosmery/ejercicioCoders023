@@ -6,12 +6,13 @@
 div > img {
   width: 300px;
   height: 300px;
-  position: absolute;
+
+
 }
 
 div{
   width: 340px;
-  display: relative;
+  margin: 20px;
   height: 340px;
   display: inline-block;
 }
@@ -25,13 +26,9 @@ hr{
 }
 #imagenes{
   position: absolute;
-  left: 50px;
+  left: 30px;
 }
-#imagenes1{
-  position: absolute;
-  left: 50px;
-  top: 350px;
-}
+
 
 #myParrafo{
   height: 55px;
